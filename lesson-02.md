@@ -24,6 +24,7 @@
     * Mozilla Firefox
     * Opera
     * Safari
+    * UC Browser
     * Dll
 
 ---
