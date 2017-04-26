@@ -14,6 +14,7 @@
 2. Peserta mampu mengenali struktur dasar layout dalam suatu website.
     * Header
     * Navigation
+    * Wow Factor
     * Content
     * Sidebar
     * Footer
@@ -24,6 +25,7 @@
   * Kertas
   * Pulpen
   * Penggaris
+  * Penghapus
 
 ---
 
