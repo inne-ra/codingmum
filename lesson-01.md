@@ -102,6 +102,11 @@
 
 ---
 
+### Evaluasi
+1. Apakah tujuan pembuatan website peserta?
+2. Apa jenis website yang dibuat oleh peserta?
+3. Sudahkah peserta membuat paper prototype masing-masing? 
+
 | [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Lesson 06][6] | [Lesson 07][7] | [Lesson 08][8] |
 |:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:----------------:|:--------------:|
 
