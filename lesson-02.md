@@ -48,6 +48,11 @@
   ```html
   <a href="about-us.html">Ini text link menuju file about-us.html</a>
   ```
+Analogi yang dapat digunakan saat menyampaikan materi anchor/link:
+```
+Seseorang hanya akan merespon jika namanya dipanggil dengan benar. Untuk itu, pastikan "orangnya" ada (dalam hal ini file berekstensi .html), lalu kemudian panggil menggunakan perintah "a href" dengan benar, jangan terlupa satu huruf pun. Karena, jika salah ketik satu huruf saja, file-nya ngambek dan tidak mau tampil. 
+```
+  
 * Paragraph
   ```html
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
